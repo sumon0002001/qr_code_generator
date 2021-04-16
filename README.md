@@ -1,0 +1,1 @@
+This is qr code generator made of ruby .
